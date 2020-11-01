@@ -1,0 +1,2 @@
+# readandhash
+create hash file
